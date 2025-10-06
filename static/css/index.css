@@ -755,3 +755,8 @@ a:focus {
 }
 
 
+.best-open {
+  color: #3558e5 !important;
+  font-weight: bold;
+  background: #fdecea !important;
+}
